@@ -1,1 +1,2 @@
-# Tarea1PHP
+# PHP Framex
+A minimal PHP framework
